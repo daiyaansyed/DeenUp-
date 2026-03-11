@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/App_Icon_Dark_Mode.png" width="120" alt="App_Icon_Dark_Mode.png">
+  <img src="App_Icon_Dark_Mode.png" width="120" alt="DeenUp Logo">
 </p>
 
 <h1 align="center">DeenUp!</h1>
@@ -10,10 +10,6 @@
 </p>
 
 
-
-<p align="center">
-  <img src="assets/demo.gif" width="300" alt="DeenUp gameplay demo">
-</p>
 
 ---
 
@@ -26,13 +22,13 @@ DeenUp is an open-source Islamic party game for iPhone. It brings the fun of Hea
 ## Screenshots
 
 <p align="center">
-  <img src="assets/screenshot-home.png" width="180" alt="Home Screen">
+  <img src="screenshot-home.png" width="180" alt="Home Screen">
   &nbsp;&nbsp;
-  <img src="assets/screenshot-gameplay.png" width="180" alt="Gameplay">
+  <img src="screenshot-gameplay.png" width="180" alt="Gameplay">
   &nbsp;&nbsp;
-  <img src="assets/screenshot-trivia.png" width="180" alt="Trivia Mode">
+  <img src="screenshot-trivia.png" width="180" alt="Trivia Mode">
   &nbsp;&nbsp;
-  <img src="assets/screenshot-results.png" width="180" alt="Results">
+  <img src="screenshot-results.png" width="180" alt="Results">
 </p>
 
 ---
