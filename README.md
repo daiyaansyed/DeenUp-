@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/App_Icon_Dark_Mode.png" width="120" alt="DeenUp Logo">
+  <img src="assets/App_Icon_Dark_Mode.png" width="120" alt="App_Icon_Dark_Mode.png">
 </p>
 
 <h1 align="center">DeenUp!</h1>
