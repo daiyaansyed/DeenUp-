@@ -9,13 +9,7 @@
   A Heads Up-style party game built for Muslims. Hold the phone to your forehead, guess the answer, and race the clock — all while learning about your deen.
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/platform-iOS-blue" alt="Platform">
-  <img src="https://img.shields.io/badge/swift-5.9-orange" alt="Swift">
-  <img src="https://img.shields.io/badge/swiftui-✓-green" alt="SwiftUI">
-  <img src="https://img.shields.io/badge/license-MIT-lightgrey" alt="License">
-  <img src="https://img.shields.io/github/stars/YOUR_USERNAME/DeenUp?style=social" alt="Stars">
-</p>
+
 
 <p align="center">
   <img src="assets/demo.gif" width="300" alt="DeenUp gameplay demo">
@@ -223,12 +217,6 @@ Open an issue, start a discussion, or reach out on [Twitter/X](https://twitter.c
 
 ---
 
-## License
-
-This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
-
----
-
 ## Acknowledgements
 
 - Built with [Claude](https://claude.ai) by [Anthropic](https://anthropic.com)
@@ -239,8 +227,4 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 
 <p align="center">
   <strong>Star ⭐ this repo if you want to see DeenUp on the App Store!</strong>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/github/stars/YOUR_USERNAME/DeenUp?style=social" alt="Stars">
 </p>
