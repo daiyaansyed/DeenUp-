@@ -212,7 +212,7 @@ Played a round? I'd love to hear from you:
 - **Which mode is more fun — Charades or Trivia?**
 - **Would you play this at your next gathering?**
 
-Open an issue, start a discussion, or reach out on [Twitter/X](https://twitter.com/YOUR_HANDLE) or [LinkedIn](https://linkedin.com/in/YOUR_HANDLE).
+Open an issue, start a discussion, or reach out on [Twitter/X](https://twitter.com/iamdaiyan) or [LinkedIn](https://linkedin.com/in/daiyaan-syed-51a93676).
 
 ---
 
