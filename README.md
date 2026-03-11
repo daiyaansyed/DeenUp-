@@ -148,13 +148,13 @@ We want every Muslim family to play in their language. Translations are needed f
 | Bahasa Melayu | 🔲 Needed |
 | Turkish (Türkçe) | 🔲 Needed |
 | French (Français) | 🔲 Needed |
+| Kannada (ಕನ್ನಡ) | 🔲 Needed |
 | Somali (Soomaali) | 🔲 Needed |
+| Tamil (தமிழ்) | 🔲 Needed |
 | Bengali (বাংলা) | 🔲 Needed |
 | Indonesian | 🔲 Needed |
 | Hindi (हिंदी) | 🔲 Needed |
 | Spanish (Español) | 🔲 Needed |
-| Kannada (ಕನ್ನಡ) | 🔲 Needed |
-| Tamil (தமிழ்) | 🔲 Needed |
 | Telugu (తెలుగు) | 🔲 Needed |
 
 Want to help translate? Open an issue titled `Translation: [Language]` and we'll coordinate.
